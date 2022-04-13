@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Automated Teller Machine.iml" filepath="$PROJECT_DIR$/.idea/Automated Teller Machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Automated-Teller-Machine/.idea/Automated-Teller-Machine.iml" filepath="$PROJECT_DIR$/../Automated-Teller-Machine/.idea/Automated-Teller-Machine.iml" />
     </modules>
   </component>
 </project>
